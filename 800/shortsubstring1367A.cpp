@@ -15,6 +15,7 @@ int main(){
         cout << b[i];
 
         cout << b.back() << endl;
-    }
+    } 
     return 0;
+    
 }
